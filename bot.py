@@ -1,7 +1,7 @@
 from pickle import TRUE
 import telebot
 
-token=""
+token="5025789377:AAGcXOPBHIBGXa7DqWe5NFxPQgNJ5QapjKY"
 
 startString = """Немного о BACKSTAGE:
 

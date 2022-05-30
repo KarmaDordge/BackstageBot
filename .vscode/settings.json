@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./yandex-music-api",
+        "./yandex-music-api/build/lib"
+    ]
+}
